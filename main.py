@@ -16,3 +16,6 @@ def audio_to_text(audio_file):
 
     except:
         print("Sorry, I did not get that")
+
+#change here        
+audio_to_text("path/to/audio.mp3")
